@@ -4,7 +4,7 @@ import path from 'path';
 import axios from 'axios';
 import { Telegraf, Markup, session } from 'telegraf';
 
-const BOT_TOKEN = 'YOUR_TOKEN';
+const BOT_TOKEN = '7937501101:AAHriAkjJtMjOePFwx2G3_UofDF2sb8zhZk';
 const bot = new Telegraf(BOT_TOKEN);
 const app = express();
 const PORT = 8080;
